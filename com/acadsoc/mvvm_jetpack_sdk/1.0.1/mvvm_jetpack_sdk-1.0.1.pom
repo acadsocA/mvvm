@@ -38,21 +38,21 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.android.support</groupId>
-      <artifactId>appcompat-v7</artifactId>
+      <groupId>com.jeremyliao</groupId>
+      <artifactId>invoking-message-core</artifactId>
       <version>RELEASE</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.android.support</groupId>
-      <artifactId>support-v4</artifactId>
-      <version>RELEASE</version>
+      <groupId>TestAndroidJetpack</groupId>
+      <artifactId>common</artifactId>
+      <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.billy.android</groupId>
-      <artifactId>gloading</artifactId>
-      <version>RELEASE</version>
+      <groupId>org.jetbrains.kotlin</groupId>
+      <artifactId>kotlin-android-extensions-runtime</artifactId>
+      <version>1.3.31</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
