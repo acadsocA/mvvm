@@ -44,9 +44,10 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>TestAndroidJetpack</groupId>
-      <artifactId>common</artifactId>
-      <version>unspecified</version>
+      <groupId>com.acadsoc</groupId>
+      <artifactId>common_utiland</artifactId>
+      <version>RELEASE</version>
+      <type>aar</type>
       <scope>compile</scope>
     </dependency>
     <dependency>
