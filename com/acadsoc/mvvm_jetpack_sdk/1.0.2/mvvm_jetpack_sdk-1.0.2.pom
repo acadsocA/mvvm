@@ -10,37 +10,31 @@
     <dependency>
       <groupId>android.arch.lifecycle</groupId>
       <artifactId>extensions</artifactId>
-      <version>RELEASE</version>
+      <version>1.1.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>android.arch.lifecycle</groupId>
       <artifactId>viewmodel</artifactId>
-      <version>RELEASE</version>
+      <version>1.1.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>android.arch.lifecycle</groupId>
       <artifactId>livedata</artifactId>
-      <version>RELEASE</version>
+      <version>1.1.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>android.arch.lifecycle</groupId>
       <artifactId>runtime</artifactId>
-      <version>RELEASE</version>
+      <version>1.1.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>android.arch.lifecycle</groupId>
       <artifactId>reactivestreams</artifactId>
-      <version>RELEASE</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.jeremyliao</groupId>
-      <artifactId>invoking-message-core</artifactId>
-      <version>RELEASE</version>
+      <version>1.1.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
